@@ -1,0 +1,92 @@
+
+body {
+  position: relative;
+}
+
+#avatarImg {
+  position: relative;
+  margin: 0 auto;
+  top: 0%;
+  padding: 3%;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+section {
+  width: 90%;
+  position: relative;
+  margin: 0 auto;
+}
+
+div img {
+  max-width: 400px;
+  height: 300px;
+  display: inline-block;
+}
+
+}
+article img {
+  max-width: 400px;
+  height: 200px;
+  display: inline-block;
+  padding: 20px;
+}
+
+#journal1 {
+  padding-top: 5%;
+  display: inline-block;
+  margin: 0 auto;
+}
+#journal2 {
+  padding-top: 5%;
+  display: inline-block;
+  margin: 0 auto;
+}
+#journal3 {
+  padding-top: 5%;
+  display: inline-block;
+  margin: 0 auto;
+
+}
+
+#theZoo {
+padding-top: 5%;
+display: inline-block;
+margin: 0 auto;
+max-width: 400px;
+display: inline-block;
+}
+
+.story_box {
+  height: 10%;
+  margin: 5% auto;
+  max-width: 1115px;
+}
+
+.text {
+  max-width: 600px;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 15%;
+  margin-left: 100px;
+  font-size: 1.6em;
+}
+#avatarImg {
+  position: absolute;
+  left: 65%;
+  top: 85%;
+  width: 300px;
+  height: 300px%;
+}
+
+Smartphones (portrait) ----------- *
+@media only screen and (max-width : 1240px) {
+ .textContainer {
+   max-width: 500px;
+ }
